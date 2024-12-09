@@ -1,0 +1,383 @@
+#body1 {
+	background-color: maroon;
+}
+
+
+#homepage_button {
+	color: white;
+	background-color: black;
+	text-align: center;
+}
+
+#homepage_head {
+	color: white;
+	margin: 5%;
+	padding: 0;
+	text-align: center;
+}
+
+#homepage_head2 {
+	color: white;
+	margin: 5%;
+	padding: 0;
+	text-align: center;
+}
+
+#homepage_para {
+	color: yellow;
+	top: 5%;
+	padding: 0;
+	text-align: center;
+}
+
+div {
+	display: flex;
+	justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#body2 {
+	background-color: #1b2d52;
+}
+
+#homepage_link {
+	color: red;
+}
+
+#charity_list_head1 {
+	color: #f67778;
+	top: 5%;
+	padding: 0;
+	text-align: center;
+}
+
+#charity_list_head2 {
+	color: #f67778;
+	top: 5%;
+	padding: 0;
+	text-align: center;
+}
+
+#charity_list_head3 {
+	padding: 0% 40%;
+}
+
+#charity_list_item1 {
+	color: #f3e4cb;
+}
+
+#charity_list_item2 {
+	color: #f3e4cb;
+}
+
+#charity_list_item3 {
+	color: #f3e4cb;
+}
+
+#charity_list_item4 {
+	color: #f3e4cb;
+}
+
+#charity_list_item5 {
+	color: #f3e4cb;
+}
+
+#charity_list_button {
+	color: white;
+	background-color: black;
+	text-align: center;
+}
+
+
+p {
+	color: #f67778;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#body3 {
+	background-color: #b78f52;
+}
+
+#charity1_list_link {
+	color: blue;
+}
+
+#charity1_head1 {
+	color: black;
+	text-align: center;
+}
+
+#charity1_head2 {
+	color: black;
+	margin: 5%;
+	padding: 0;
+	text-align: center;
+}
+
+#charity1_head3 {
+	color: black;
+	text-align: center;
+}
+
+#charity1_button {
+	color: white;
+	background-color: black;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#body4 {
+	background-color: #593e31;
+}
+
+#charity2_list_link {
+	color: red;
+}
+
+#charity2_head1 {
+	color: #008080;
+	text-align: center;
+}
+
+#charity2_head2 {
+	color: #008080;
+	margin: 5%;
+	padding: 0;
+	text-align: center;
+}
+
+#charity2_head3 {
+	color: #008080;
+	text-align: center;
+}
+
+#charity2_button {
+	color: #008080;
+	background-color: black;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#body5 {
+	background-color: #B87333;
+}
+
+#charity3_list_link {
+	color: blue;
+}
+
+#charity3_head1 {
+	color: #9CAF88;
+	text-align: center;
+}
+
+#charity3_head2 {
+	color: #9CAF88;
+	margin: 5%;
+	padding: 0;
+	text-align: center;
+}
+
+#charity3_head3 {
+	color: #9CAF88;
+	text-align: center;
+}
+
+#charity3_button {
+	color: #9CAF88;
+	background-color: black;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+#body6 {
+	background-color: #B4869F;
+}
+
+#charity4_list_link {
+	color: pink;
+}
+
+#charity4_head1 {
+	color: pink;
+	text-align: center;
+}
+
+#charity4_head2 {
+	color: pink;
+	margin: 5%;
+	padding: 0;
+	text-align: center;
+}
+
+#charity4_head3 {
+	color: pink;
+	text-align: center;
+}
+
+#charity4_button {
+	color: pink;
+	background-color: grey;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+#body7 {
+	background-color: #CCCCFF;
+}
+
+#charity5_list_link {
+	color: #4C2E05;
+}
+
+#charity5_head1 {
+	color: #4C2E05;
+	text-align: center;
+}
+
+#charity5_head2 {
+	color: #4C2E05;
+	margin: 5%;
+	padding: 0;
+	text-align: center;
+}
+
+#charity5_head3 {
+	color: #4C2E05;
+	text-align: center;
+}
+
+#charity5_button {
+	color: #4C2E05;
+	background-color: white;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+#body8 {
+	background-color: navy;
+}
+
+#charity_list_link_contact {
+	color: red;
+	text-align: center;
+}
+
+#contact_head1 {
+	color:  #D4AF37;
+	text-align: center;
+}
+
+#contact_head2 {
+	color:  #D4AF37;
+	text-align: center;
+}
+
+#contact_label1 {
+	color:  #D4AF37;
+}
+
+#contact_label2 {
+	color:  #D4AF37;
+}
+
+#contact_input1 {
+	color:  #D4AF37;
+}
+
+#contact_input2 {
+	color:  #D4AF37;
+}
+
+#contact_button {
+	color:  #D4AF37;
+	background-color: black;
+}
+
+
+
+
+
+
+
+
+#body9 {
+	background-color: pink;
+}
+
+#thank_you_head {
+	color: red;
+	margin: 10% 40%;
+}
+
+
+
